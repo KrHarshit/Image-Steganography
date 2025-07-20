@@ -1,0 +1,5 @@
+Compilation command for encoding:
+./a.out -e beautiful.bmp secret.txt <filename.bmp - optional>
+
+Compilation command for decoding:
+./a.out -d output.bmp <output filename - optional>
